@@ -14,7 +14,7 @@ namespace ScriptingExercise
             string id = Request.QueryString["id"];
             if(id==null)
             {
-                lblOutput.Text = "NA";
+                lblOutput.Text = "Yay";
             }
             else
             {
