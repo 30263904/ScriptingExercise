@@ -18,7 +18,8 @@ namespace ScriptingExercise
             }
             else
             {
-                lblOutput.Text = id;
+                
+                lblOutput.Text = "NA";
             }
         }
     }
